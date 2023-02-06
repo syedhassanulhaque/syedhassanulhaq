@@ -169,7 +169,7 @@ body{
     height: 100vh;
     justify-content: center;
     align-items: center;
-    background: url('./img/bg3.jpg')  no-repeat  center center ;
+    background: url('../img/bg3.jpg')  no-repeat  center center ;
     background-size: cover;
     color: white;
 }

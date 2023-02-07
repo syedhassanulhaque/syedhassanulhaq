@@ -555,6 +555,7 @@ margin-bottom: 40px;
     display: flex;
     flex-direction: row ;
     flex-wrap: wrap;
+    justify-content: center;
 
 }
 .project .card{

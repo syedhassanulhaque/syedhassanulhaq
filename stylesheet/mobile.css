@@ -93,9 +93,8 @@
 
 
     
-    .carousel .card .box img{
-        width: 200px;
-        height: 200px;
+    .project .card {
+        width: 70vw;
     
     }
 

@@ -57,7 +57,7 @@
     /* Home Styling */
     .home{
 
-        background: url('./img/bg3.jpg')  no-repeat  center center ;
+        background: url('../img/bg3.jpg')  no-repeat  center center ;
     }
 
     .home .maxwidth{
